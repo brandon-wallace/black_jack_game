@@ -1,7 +1,9 @@
 # black_jack_game
 
-**Black Jack Game written in Python**
+**Black Jack game written in Python**
 
+
+![Black Jack game](screenshot.jpg)
 
 Requirements
 

@@ -1,0 +1,9 @@
+bin/
+include/
+lib/
+__pycache__/
+venv/
+pip-selfcheck.json
+*.ipynb
+*.pyc
+*.db
